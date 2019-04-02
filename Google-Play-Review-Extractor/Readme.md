@@ -1,5 +1,7 @@
 Google Play App Store application reviews extractor.
-NOTICDE: this is not a website scrappe that uses a complicated library to crewl the borowser, just extracts reviews loading html format as String and loads to jodn array to use.
+
+NOTICE: this is not a website scrappe that uses a complicated library to crewl the borowser, just extracts reviews loading html format as String and loads to jodn array to use.
+
 
 Below the list of links to the apps used:
 
