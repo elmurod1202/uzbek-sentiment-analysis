@@ -10,3 +10,8 @@ The original mtranslate can be found from: https://github.com/mouuff/mtranslate
 
 Also on PyPi:
 https://pypi.python.org/pypi?:action=display&name=mtranslate
+
+
+Example for the translation:
+
+![Translation image](https://github.com/elmurod1202/uzbek-sentiment-analysis/blob/master/images/translation-example.jpg)
