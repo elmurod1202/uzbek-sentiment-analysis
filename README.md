@@ -1,7 +1,7 @@
 # uzbek-sentiment-analysis
 Sentiment analysis in Uzbek language and new Datasets of Uzbek App reviews for Sentiment Classification
 
-Feel free to use the dataset and the tools presented in this project, a paper about more details on creation and usage[here](http://www.grupolys.org/biblioteca/KurMatAloGom2019a.pdf).
+Feel free to use the dataset and the tools presented in this project, a paper about more details on creation and usage [here](http://www.grupolys.org/biblioteca/KurMatAloGom2019a.pdf).
 
 If you find it useful, plese make sure to cite the paper:
 ```
