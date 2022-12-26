@@ -5,13 +5,29 @@ Feel free to use the dataset and the tools presented in this project, a paper ab
 
 If you find it useful, plese make sure to cite the paper:
 ```
-@inproceedings{kuriyozov2019deep,
-  author =       {Kuriyozov, Elmurod and Matlatipov, Sanatbek and Alonso, Miguel A and Gómez-Rodríguez, Carlos},
-  title =        {Deep Learning vs. Classic Models on a New {U}zbek Sentiment Analysis Dataset},
-  booktitle =     {Human Language Technologies as a Challenge for Computer Science and Linguistics – 2019},
-  publisher = {Wydawnictwo Nauka i Innowacje},
-  year =         {2019},
-  pages = {258--262}
+@inproceedings{DBLP:conf/ltconf/KuriyozovMAG19,
+  author    = {Elmurod Kuriyozov and
+               Sanatbek Matlatipov and
+               Miguel A. Alonso and
+               Carlos G{\'{o}}mez{-}Rodr{\'{\i}}guez},
+  editor    = {Zygmunt Vetulani and
+               Patrick Paroubek and
+               Marek Kubis},
+  title     = {Construction and Evaluation of Sentiment Datasets for Low-Resource
+               Languages: The Case of Uzbek},
+  booktitle = {Human Language Technology. Challenges for Computer Science and Linguistics
+               - 9th Language and Technology Conference, {LTC} 2019, Poznan, Poland,
+               May 17-19, 2019, Revised Selected Papers},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {13212},
+  pages     = {232--243},
+  publisher = {Springer},
+  year      = {2019},
+  url       = {https://doi.org/10.1007/978-3-031-05328-3\_15},
+  doi       = {10.1007/978-3-031-05328-3\_15},
+  timestamp = {Thu, 23 Jun 2022 19:58:44 +0200},
+  biburl    = {https://dblp.org/rec/conf/ltconf/KuriyozovMAG19.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
 
